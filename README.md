@@ -1,3 +1,3 @@
 # 剑指offer
 
-🦄 [题解入口](www.yyf-blog.com)
+🦄 [题解入口](http://www.yyf-blog.com)
